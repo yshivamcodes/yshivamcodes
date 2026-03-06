@@ -40,7 +40,7 @@ Passionate about building intelligent systems using Machine Learning, IoT automa
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,streamlit,flask,jupyter,colab" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,flask,jupyter,python" />
 </p>
 
 ---
