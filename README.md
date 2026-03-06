@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shivam Yadav</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Machine+Learning+Enthusiast;IoT+Developer;CTF+Player;Open+Source+Learner&center=true&width=500&height=50">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Science+Enthusiast;CTF+Player;Open+Source+Learner&center=true&width=500&height=50">
 </p>
 
 <p align="center">
@@ -25,7 +25,7 @@ Passionate about building intelligent systems using Machine Learning, IoT automa
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,cpp" />
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c" />
 </p>
 
 ### ML & Data
@@ -40,7 +40,7 @@ Passionate about building intelligent systems using Machine Learning, IoT automa
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,streamlit,flask,jupyter,colab" />
 </p>
 
 ---
@@ -94,9 +94,7 @@ Machine learning classification model predicting passenger survival using histor
 </td>
 
 <td width="50%">
-![Python](https://img.shields.io/badge/Python-Glass-blue?style=for-the-badge&logo=python)
-![Machine Learning](https://img.shields.io/badge/MachineLearning-Glass-purple?style=for-the-badge)
-![IoT](https://img.shields.io/badge/IoT-Glass-green?style=for-the-badge)
+
 
 ## 🌸 Iris Flower Classification
 Classic ML classification problem predicting iris species using petal and sepal measurements.
@@ -125,9 +123,7 @@ Regression model predicting movie ratings using user interaction data.
 </td>
 
 <td width="50%">
-![Python](https://img.shields.io/badge/Python-Glass-blue?style=for-the-badge&logo=python)
-![Machine Learning](https://img.shields.io/badge/MachineLearning-Glass-purple?style=for-the-badge)
-![IoT](https://img.shields.io/badge/IoT-Glass-green?style=for-the-badge)
+
 
 ## 🌱 IoT Aeroponic Farming System
 Smart farming system monitoring environmental parameters using sensors.
