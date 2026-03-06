@@ -65,6 +65,17 @@ Passionate about building intelligent systems using Machine Learning, IoT automa
 
 ---
 
+## 📈 Contribution Graph
+
+[![Shivam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yshivamcodes&theme=tokyo-night)](https://github.com/yshivamcodes)
+
+---
+
+## 🏆 GitHub Achievements
+
+![](https://github-profile-trophy.vercel.app/?username=yshivamcodes&theme=tokyonight&no-frame=true&row=1)
+
+---
 # 🧊 Featured Projects
 
 <table>
@@ -83,6 +94,9 @@ Machine learning classification model predicting passenger survival using histor
 </td>
 
 <td width="50%">
+![Python](https://img.shields.io/badge/Python-Glass-blue?style=for-the-badge&logo=python)
+![Machine Learning](https://img.shields.io/badge/MachineLearning-Glass-purple?style=for-the-badge)
+![IoT](https://img.shields.io/badge/IoT-Glass-green?style=for-the-badge)
 
 ## 🌸 Iris Flower Classification
 Classic ML classification problem predicting iris species using petal and sepal measurements.
@@ -111,6 +125,9 @@ Regression model predicting movie ratings using user interaction data.
 </td>
 
 <td width="50%">
+![Python](https://img.shields.io/badge/Python-Glass-blue?style=for-the-badge&logo=python)
+![Machine Learning](https://img.shields.io/badge/MachineLearning-Glass-purple?style=for-the-badge)
+![IoT](https://img.shields.io/badge/IoT-Glass-green?style=for-the-badge)
 
 ## 🌱 IoT Aeroponic Farming System
 Smart farming system monitoring environmental parameters using sensors.
@@ -127,16 +144,6 @@ Smart farming system monitoring environmental parameters using sensors.
 
 ---
 
-### 🌱 IoT Project
-
-🔹 **Aeroponic Farming System**
-
-Features:
-- DHT11 Sensor Integration
-- Environmental Monitoring
-- Automated Plant Growth System
-
----
 
 ### 🏴‍☠️ Cybersecurity
 
