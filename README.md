@@ -40,7 +40,7 @@ Passionate about building intelligent systems using Machine Learning, IoT automa
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,flask,jupyter,python" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux," />
 </p>
 
 ---
@@ -65,17 +65,6 @@ Passionate about building intelligent systems using Machine Learning, IoT automa
 
 ---
 
-## 📈 Contribution Graph
-
-[![Shivam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yshivamcodes&theme=tokyo-night)](https://github.com/yshivamcodes)
-
----
-
-## 🏆 GitHub Achievements
-
-![](https://github-profile-trophy.vercel.app/?username=yshivamcodes&theme=tokyonight&no-frame=true&row=1)
-
----
 # 🧊 Featured Projects
 
 <table>
