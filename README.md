@@ -45,17 +45,6 @@ Passionate about building intelligent systems using Machine Learning, IoT automa
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=yshivamcodes&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yshivamcodes&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
 
 # 🔥 Contribution Streak
 
