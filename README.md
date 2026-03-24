@@ -133,13 +133,7 @@ Repository includes solutions and methodology for solving challenges.
 
 ---
 
-# 🐍 Contribution Snake
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-</p>
-
----
 
 # 🌐 Connect With Me
 
