@@ -14,6 +14,7 @@ Passionate about building intelligent systems using Machine Learning, IoT automa
 
 🎓 Computer Science Student  
 🤖 Exploring Machine Learning and AI 
+
 🏴‍☠️ Active participant in **CTF competitions**  
 💡 Love solving real-world problems with code  
 
