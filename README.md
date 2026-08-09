@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./banner.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./banner-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./banner-v2.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./banner-light-v2.svg">
   <img src="./banner.svg" alt="SHIVAM YADAV — aspiring data scientist animated GitHub banner" width="100%">
 </picture>
 
