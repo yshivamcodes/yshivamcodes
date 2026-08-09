@@ -81,13 +81,6 @@ Currently sharpening Python, machine learning, data science and core programming
 - AI-powered developer tools and practical automation.
 - Stronger fundamentals in C/C++, Java, algorithms and computer science.
 
-## 🐍 Contribution Animation
-
-<div align="center">
-  <img src="./snake.svg" alt="Animated local contribution snake" width="760">
-</div>
-
-> `snake.svg` is intentionally local and lightweight. If you later generate a real GitHub contribution snake with GitHub Actions, you can replace this file without changing the README.
 
 ## 📈 GitHub Activity
 
