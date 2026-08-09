@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="540" height="270" viewBox="0 0 540 270">
+<defs><linearGradient id="g"><stop stop-color="#6D28D9"/><stop offset=".5" stop-color="#8B5CF6"/><stop offset="1" stop-color="#3B82F6"/></linearGradient><style>@keyframes in{from{opacity:0;transform:translateX(-18px)}to{opacity:1;transform:none}}</style></defs>
+<rect x="5" y="5" width="530" height="260" rx="24" fill="#050505" stroke="#3B82F6" stroke-opacity=".55"/>
+<text x="28" y="34" fill="#94A3B8" font-family="ui-monospace,monospace" font-size="11" font-weight="800" letter-spacing="2">TOP LANGUAGES / SKILLS</text>
+<g style="opacity:0;animation:in .55s ease 0.00s forwards">
+        <text x="28" y="63" fill="#EDE9FE" font-family="ui-sans-serif,system-ui" font-size="12" font-weight="800">Python</text>
+        <rect x="175" y="51" width="300" height="11" rx="5.5" fill="#21163A"/>
+        <rect x="175" y="51" width="270" height="11" rx="5.5" fill="url(#g)"/>
+        <text x="490" y="63" text-anchor="end" fill="#94A3B8" font-family="ui-monospace,monospace" font-size="10">90%</text></g><g style="opacity:0;animation:in .55s ease 0.12s forwards">
+        <text x="28" y="101" fill="#EDE9FE" font-family="ui-sans-serif,system-ui" font-size="12" font-weight="800">Machine Learning</text>
+        <rect x="175" y="89" width="300" height="11" rx="5.5" fill="#21163A"/>
+        <rect x="175" y="89" width="258" height="11" rx="5.5" fill="url(#g)"/>
+        <text x="490" y="101" text-anchor="end" fill="#94A3B8" font-family="ui-monospace,monospace" font-size="10">86%</text></g><g style="opacity:0;animation:in .55s ease 0.24s forwards">
+        <text x="28" y="139" fill="#EDE9FE" font-family="ui-sans-serif,system-ui" font-size="12" font-weight="800">Data Science</text>
+        <rect x="175" y="127" width="300" height="11" rx="5.5" fill="#21163A"/>
+        <rect x="175" y="127" width="246" height="11" rx="5.5" fill="url(#g)"/>
+        <text x="490" y="139" text-anchor="end" fill="#94A3B8" font-family="ui-monospace,monospace" font-size="10">82%</text></g><g style="opacity:0;animation:in .55s ease 0.36s forwards">
+        <text x="28" y="177" fill="#EDE9FE" font-family="ui-sans-serif,system-ui" font-size="12" font-weight="800">C++</text>
+        <rect x="175" y="165" width="300" height="11" rx="5.5" fill="#21163A"/>
+        <rect x="175" y="165" width="204" height="11" rx="5.5" fill="url(#g)"/>
+        <text x="490" y="177" text-anchor="end" fill="#94A3B8" font-family="ui-monospace,monospace" font-size="10">68%</text></g><g style="opacity:0;animation:in .55s ease 0.48s forwards">
+        <text x="28" y="215" fill="#EDE9FE" font-family="ui-sans-serif,system-ui" font-size="12" font-weight="800">Java</text>
+        <rect x="175" y="203" width="300" height="11" rx="5.5" fill="#21163A"/>
+        <rect x="175" y="203" width="168" height="11" rx="5.5" fill="url(#g)"/>
+        <text x="490" y="215" text-anchor="end" fill="#94A3B8" font-family="ui-monospace,monospace" font-size="10">56%</text></g>
+</svg>

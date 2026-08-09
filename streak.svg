@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="170" viewBox="0 0 760 170">
+<defs><linearGradient id="g"><stop stop-color="#6D28D9"/><stop offset=".5" stop-color="#8B5CF6"/><stop offset="1" stop-color="#3B82F6"/></linearGradient>
+<style>@keyframes p{from{stroke-dashoffset:500}to{stroke-dashoffset:170}}@keyframes f{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}.ring{animation:p 1.6s ease forwards}.fade{opacity:0;animation:f .6s ease forwards;animation-delay:.45s}</style></defs>
+<rect x="5" y="5" width="750" height="160" fill="#120C20"/>
+<line x1="250" y1="25" x2="250" y2="140" stroke="#94A3B8" stroke-opacity=".45"/>
+<line x1="510" y1="25" x2="510" y2="140" stroke="#94A3B8" stroke-opacity=".45"/>
+<g class="fade"><text x="125" y="65" text-anchor="middle" fill="#60A5FA" font-family="ui-monospace,monospace" font-size="30" font-weight="900">BUILD</text><text x="125" y="95" text-anchor="middle" fill="#8B5CF6" font-family="ui-sans-serif,system-ui" font-size="14">Learning consistency</text><text x="125" y="120" text-anchor="middle" fill="#94A3B8" font-family="ui-monospace,monospace" font-size="10">ONE PROJECT AT A TIME</text></g>
+<circle cx="380" cy="75" r="43" fill="none" stroke="#21163A" stroke-width="10"/><circle cx="380" cy="75" r="43" fill="none" stroke="url(#g)" stroke-width="8" stroke-linecap="round" stroke-dasharray="500" stroke-dashoffset="500" class="ring" transform="rotate(-90 380 75)"/><text x="380" y="82" text-anchor="middle" fill="#EDE9FE" font-family="ui-sans-serif,system-ui" font-size="25" font-weight="900">ML</text><text x="380" y="112" text-anchor="middle" fill="#94A3B8" font-family="ui-monospace,monospace" font-size="9">CURRENT FOCUS</text>
+<g class="fade"><text x="630" y="65" text-anchor="middle" fill="#EDE9FE" font-family="ui-monospace,monospace" font-size="30" font-weight="900">SHIP</text><text x="630" y="95" text-anchor="middle" fill="#60A5FA" font-family="ui-sans-serif,system-ui" font-size="14">Ideas → systems</text><text x="630" y="120" text-anchor="middle" fill="#94A3B8" font-family="ui-monospace,monospace" font-size="10">TURNING IDEAS INTO AI</text></g>
+</svg>
