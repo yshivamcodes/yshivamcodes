@@ -59,10 +59,6 @@ Currently sharpening Python, machine learning, data science and core programming
 
 <br>
 
-<div align="center">
-  <img src="./trophies.svg" width="70%" alt="Local animated developer trophies">
-</div>
-
 ## 🚀 Featured Projects
 
 | Project | What it does | Stack |
