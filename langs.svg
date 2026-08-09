@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="260" viewBox="0 0 520 260">
+<defs><linearGradient id="g"><stop stop-color="#6D28D9"/><stop offset=".5" stop-color="#8B5CF6"/><stop offset="1" stop-color="#3B82F6"/></linearGradient>
+<style>@keyframes row{from{opacity:0;transform:translateX(-20px)}to{opacity:1;transform:translateX(0)}}</style></defs>
+<rect x="4" y="4" width="512" height="252" rx="24" fill="#050505" stroke="#3B82F6" stroke-opacity=".42"/>
+<text x="30" y="31" fill="#94A3B8" font-family="ui-monospace,monospace" font-size="11" font-weight="800" letter-spacing="2">LANGUAGE / SKILL PROFILE</text>
+<g style="opacity:0;animation:row .55s ease 0.00s forwards">
+          <text x="30" y="55" fill="#EDE9FE" font-family="ui-sans-serif,system-ui" font-size="12" font-weight="800">Python</text>
+          <rect x="150" y="43" width="320" height="12" rx="6" fill="#171226"/>
+          <rect x="150" y="43" width="294.40000000000003" height="12" rx="6" fill="url(#g)"/>
+          <text x="485" y="55" text-anchor="end" fill="#94A3B8" font-family="ui-monospace,monospace" font-size="11">92%</text>
+        </g><g style="opacity:0;animation:row .55s ease 0.16s forwards">
+          <text x="30" y="91" fill="#EDE9FE" font-family="ui-sans-serif,system-ui" font-size="12" font-weight="800">C++</text>
+          <rect x="150" y="79" width="320" height="12" rx="6" fill="#171226"/>
+          <rect x="150" y="79" width="230.4" height="12" rx="6" fill="url(#g)"/>
+          <text x="485" y="91" text-anchor="end" fill="#94A3B8" font-family="ui-monospace,monospace" font-size="11">72%</text>
+        </g><g style="opacity:0;animation:row .55s ease 0.32s forwards">
+          <text x="30" y="127" fill="#EDE9FE" font-family="ui-sans-serif,system-ui" font-size="12" font-weight="800">Java</text>
+          <rect x="150" y="115" width="320" height="12" rx="6" fill="#171226"/>
+          <rect x="150" y="115" width="185.60000000000002" height="12" rx="6" fill="url(#g)"/>
+          <text x="485" y="127" text-anchor="end" fill="#94A3B8" font-family="ui-monospace,monospace" font-size="11">58%</text>
+        </g><g style="opacity:0;animation:row .55s ease 0.48s forwards">
+          <text x="30" y="163" fill="#EDE9FE" font-family="ui-sans-serif,system-ui" font-size="12" font-weight="800">C</text>
+          <rect x="150" y="151" width="320" height="12" rx="6" fill="#171226"/>
+          <rect x="150" y="151" width="172.8" height="12" rx="6" fill="url(#g)"/>
+          <text x="485" y="163" text-anchor="end" fill="#94A3B8" font-family="ui-monospace,monospace" font-size="11">54%</text>
+        </g><g style="opacity:0;animation:row .55s ease 0.64s forwards">
+          <text x="30" y="199" fill="#EDE9FE" font-family="ui-sans-serif,system-ui" font-size="12" font-weight="800">ML / Data</text>
+          <rect x="150" y="187" width="320" height="12" rx="6" fill="#171226"/>
+          <rect x="150" y="187" width="281.6" height="12" rx="6" fill="url(#g)"/>
+          <text x="485" y="199" text-anchor="end" fill="#94A3B8" font-family="ui-monospace,monospace" font-size="11">88%</text>
+        </g>
+</svg>
