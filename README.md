@@ -78,13 +78,6 @@ Currently sharpening Python, machine learning, data science and core programming
 - Stronger fundamentals in C/C++, Java, algorithms and computer science.
 
 
-## 📈 GitHub Activity
-
-<div align="center">
-  <img src="./activity.svg" alt="Local contribution activity graph" width="760">
-</div>
-
-> The activity graph is local and intentionally API-free. It is a visual design element, not a live GitHub contribution-data feed.
 
 ## 🤝 Connect
 
