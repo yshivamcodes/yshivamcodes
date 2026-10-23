@@ -76,6 +76,8 @@ Currently sharpening Python, machine learning, data science and core programming
 - Data-science workflows that move from raw data to useful decisions.
 - AI-powered developer tools and practical automation.
 - Stronger fundamentals in C/C++, Java, algorithms and computer science.
+- Strengthening hands-on AWS and cloud engineering skills.
+- **AI & RAG Engineering:** Exploring document-grounded question answering, retrieval quality, and reliable AI systems.
 
 
 
