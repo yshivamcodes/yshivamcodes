@@ -15,9 +15,15 @@
 <a href="mailto:shivamyraj24@gmail.com">
   <img src="https://img.shields.io/badge/EMAIL-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
+
 <a href="https://github.com/yshivamcodes">
   <img src="https://img.shields.io/badge/GITHUB-0F0F1A?style=for-the-badge&logo=github&logoColor=EDE9FE" alt="GitHub">
 </a>
+
+<a href="https://www.linkedin.com/in/shivam-yadav2402">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
+</a>
+
 <br><br>
 
 
